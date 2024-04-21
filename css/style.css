@@ -1,3 +1,7 @@
 .card-width {
-  width: 22rem;
+  width: 25rem;
+}
+.card-body p.minimized{
+    /* font-size: .7em; */
+    text-align: end;
 }
